@@ -1,36 +1,36 @@
-"ACTION 24": "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
-"AEOLOS": "https://cdn.istoikona.com/aeolostv/live/playlist.m3u8"
-"ALERT": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8"
-"ALFA": "https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8"
-"ART": "https://live-y16rq9u0.rmbl.ws/slot-62/qe2j-97wx_1080p/playlist.m3u8"
-"BEST TV"
-"CORFU CHANNEL"
-"DIKTYO"
-"E TV"
-"ED TV"
-"EGNATIA"
-"ENA CHANNEL"
-"EPILOGES"
-"EPIRUS TV1"
-"EPSILON"
-"FORMEDIA TV"
-"GNOMI TV"
-"HIGH"
-"IONIAN"
-"IRIDA"
-"KONTRA"
-"LYCHNOS"
-"MESOGEIOS"
-"NEA"
-"PELLA TV"
-"PLP"
-"PRO NEWS"
-"SAMIAKI"
-"START"
-"SYROS TV1"
-"THRAKINET"
-"TOP CHANNEL"
-"TRT"
-"TV 100"
-"TV CRETA"
-"TV KOSMOS"
+"ACTION 24": "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
+"AEOLOS": "https://cdn.istoikona.com/aeolostv/live/playlist.m3u8",
+"ALERT": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
+"ALFA": "https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8",
+"ART": "https://live-y16rq9u0.rmbl.ws/slot-62/qe2j-97wx_1080p/playlist.m3u8",
+"BEST TV": "https://stream.net7.gr/hls/best/index.m3u8",
+"CORFU CHANNEL": "https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8",
+"DIKTYO": "https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8",
+"E TV": "https://channel.streams.ovh:1936/epsilontv/epsilontv/playlist.m3u8",
+"ED TV": "https://s2.netmax-host.eu:2053/tvd/tvd/playlist.m3u8",
+"EGNATIA": "https://video.streams.ovh:1936/egnatiatv/egnatiatv/playlist.m3u8",
+"ENA CHANNEL": "https://storemusic.top:8222/enachannel/enachannel/enachannel/playlist.m3u8",
+"EPILOGES": "https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8",
+"EPIRUS TV1": "https://til.pp.ua:3928/live/epiruslive.m3u8",
+"EPSILON": "https://edge1.mystream.gr/video427009/live/playlist.m3u8",
+"FORMEDIA TV": "https://svs.itworkscdn.net/formediatvlive/formediatv.smil/playlist.m3u8",
+"GNOMI TV": "https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8",
+"HIGH": "https://live.streams.ovh/hightv/hightv/playlist.m3u8",
+"IONIAN": "https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8",
+"IRIDA": "https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8",
+"KONTRA": "https://kontralive.siliconweb.com/live/kontratv/playlist.m3u8",
+"LYCHNOS": "https://thor.mental-media.gr:19360/imp_abr/imp_abr.m3u8",
+"MESOGEIOS": "https://til.pp.ua:3872/live/mesogeiostvlive.m3u8",
+"NEA": "https://live.neatv.gr:8888/hls/neatv.m3u8",
+"PELLA TV": "https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8",
+"PLP": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8",
+"PRO NEWS": "https://til.pp.ua:3424/live/superblive.m3u8",
+"SAMIAKI": "https://live.cast-control.eu/samiaki/samiaki/playlist.m3u8",
+"START": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
+"SYROS TV1": "https://eco.streams.ovh/syrostv1/syrostv1/playlist.m3u8",
+"THRAKINET": "https://cdns.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8",
+"TOP CHANNEL": "https://s2.netmax-host.eu:2053/topchannel/topchannel/playlist.m3u8",
+"TRT": "https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8",
+"TV 100": "https://live.fm100.gr/hls/tv100/1_2/index.m3u8",
+"TV CRETA": "https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8",
+"TV KOSMOS": "https://5e8dfce185af1.streamlock.net/TvKosmosLive/TvKosmosLive/playlist.m3u8"
