@@ -1,9 +1,12 @@
 {
+  "4E": "http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/playlist.m3u8",
   "ACTION 24": "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
   "AEOLOS": "https://cdn.istoikona.com/aeolostv/live/playlist.m3u8",
   "ALERT": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
   "ALFA": "https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8",
   "ART": "https://live-y16rq9u0.rmbl.ws/slot-62/qe2j-97wx_1080p/playlist.m3u8",
+  "ART TV": "https://til.pp.ua:3026/live/arttvgrlive.m3u8",
+  "ATTICA": "https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8",
   "BEST TV": "https://stream.net7.gr/hls/best/index.m3u8",
   "CORFU CHANNEL": "https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8",
   "DIKTYO": "https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8",
