@@ -1,4 +1,5 @@
-"ACTION 24": "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
+{
+  "ACTION 24": "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8",
 "AEOLOS": "https://cdn.istoikona.com/aeolostv/live/playlist.m3u8",
 "ALERT": "https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8",
 "ALFA": "https://www.hellasnet.tv/rest.live.hn/ws.alf/playlist.m3u8",
@@ -34,3 +35,4 @@
 "TV 100": "https://live.fm100.gr/hls/tv100/1_2/index.m3u8",
 "TV CRETA": "https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8",
 "TV KOSMOS": "https://5e8dfce185af1.streamlock.net/TvKosmosLive/TvKosmosLive/playlist.m3u8"
+}
