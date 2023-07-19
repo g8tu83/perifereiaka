@@ -34,7 +34,7 @@
   "START": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
   "SYROS TV1": "https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8",
   "THRAKINET": "https://cdns.onestreaming.com/thrakinettv/thrakinettv/playlist.m3u8",
-  "TOP CHANNEL": "https://s2.netmax-host.eu:2053/topchannel/topchannel/playlist.m3u8",
+  "TOP CHANNEL": "https://eu1.vectromdigital.com:1936/topchannel/topchannel/playlist.m3u8",
   "TRT": "https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8",
   "TV 100": "https://live.fm100.gr/hls/tv100/1_2/index.m3u8",
   "TV CRETA": "https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8",
