@@ -28,7 +28,7 @@
   "MESOGEIOS": "https://til.pp.ua:3872/live/mesogeiostvlive.m3u8",
   "NEA": "https://live.neatv.gr:8888/hls/neatv.m3u8",
   "PELLA TV": "https://video.streams.ovh:1936/pellatv/pellatv/playlist.m3u8",
-  "PLP": "https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8",
+  "PLP": "https://www.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8",
   "PRO NEWS": "https://til.pp.ua:3424/live/superblive.m3u8",
   "SAMIAKI": "https://live.cast-control.eu/samiaki/samiaki/playlist.m3u8",
   "START": "https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8",
