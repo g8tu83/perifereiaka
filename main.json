@@ -17,7 +17,7 @@
   "ENA CHANNEL": "https://storemusic.top:8222/enachannel/enachannel/enachannel/playlist.m3u8",
   "EPILOGES": "https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8",
   "EPIRUS TV1": "https://til.pp.ua:3928/live/epiruslive.m3u8",
-  "EPSILON": "https://edge1.mystream.gr/video427009/live/playlist.m3u8",
+  "EPSILON": "",
   "FORMEDIA TV": "https://svs.itworkscdn.net/formediatvlive/formediatv.smil/playlist.m3u8",
   "GNOMI TV": "https://channel.streams.ovh:1936/gnomitv/gnomitv/playlist.m3u8",
   "HIGH": "https://live.streams.ovh/hightv/hightv/playlist.m3u8",
@@ -38,5 +38,5 @@
   "TRT": "https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8",
   "TV 100": "https://live.fm100.gr/hls/tv100/1_2/index.m3u8",
   "TV CRETA": "https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8",
-  "TV KOSMOS": "https://5e8dfce185af1.streamlock.net/TvKosmosLive/TvKosmosLive/playlist.m3u8"
+  "TV KOSMOS": ""
 }
