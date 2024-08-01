@@ -24,6 +24,7 @@
   "EPIRUS TV1": "https://til.pp.ua:3928/live/epiruslive.m3u8",
   "EPSILON": "",
   "EURO TV": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/EuroTV.m3u8",
+  "FLASH TV": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/FlashTV.m3u8",
   "FORMEDIA TV": "",
   "GNOMI TV": "https://live.streams.ovh:8081/gnomitv/index.m3u8",
   "HIGH": "https://live.streams.ovh/hightv/hightv/playlist.m3u8",
