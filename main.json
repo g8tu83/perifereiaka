@@ -8,6 +8,7 @@
   "ALFA": "https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8",
   "ART": "https://rumble.com/live-hls-dvr/55391p/playlist.m3u8",
   "ART TV": "https://til.pp.ua:3711/live/arttvgr70live.m3u8",
+  "ASTRA": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Astra_TV.m3u8",
   "ATTICA": "https://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8",
   "BEST TV": "https://besttv.siliconweb.com/bestTV/live_abr/playlist.m3u8",
   "BLUE SKY": "https://cdn1.smart-tv-data.com/bluesky/bluesky-live/playlist.m3u8",
