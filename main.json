@@ -48,6 +48,6 @@
   "TRT": "https://www.hellasnet.tv/rest2.live.hn/u2r.trt/playlist.m3u8",
   "TV 100": "https://live.fm100.gr/hls/tv100/1_2/index.m3u8",
   "TV CRETA": "https://live.streams.ovh/tvcreta/tvcreta/playlist.m3u8",
-  "TV KOSMOS": "",
+  "TV KOSMOS": "https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/tvkosmosgr.m3u8",
   "VERGINA": "https://ssh101-fl.bozztv.com/ssh101/verginatv/index.m3u8"
 }
